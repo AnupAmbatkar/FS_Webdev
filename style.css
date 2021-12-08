@@ -1,0 +1,42 @@
+body{
+    background-color:#9FAD97;
+}
+.image_center{
+    align-content: center;
+}
+#p1{
+    text-align:left;
+}
+#p2{
+    text-align:center;
+}
+#p3{
+    text-align: right;
+}
+#p4_green{
+   color:green;
+}
+#p5_TrebuchetMS{
+    font-family:"Trebuchet MS";
+}
+#p6_font_size{
+    font-size: 50px;
+
+}
+#p7_color_face_size{
+    color:#F7EEEE;
+     font-family:"Arial, Helvicta, sans-serif";
+     font-size: x-small;
+}
+#peanut{
+    width:200px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#button{
+    width:125px;
+    height: 49px;
+    margin-left: auto;
+    margin-right: auto;
+}
