@@ -1,0 +1,11 @@
+body{
+    margin:auto;
+    display:block;
+}
+.table_style {
+    border: 1px solid black;
+    border-spacing: 1px;
+}
+.table_style td{
+    border: 1px solid black;
+}
