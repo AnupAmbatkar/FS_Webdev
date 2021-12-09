@@ -1,0 +1,17 @@
+
+.table_style{
+    border-collapse: collapse;
+    border: 1px solid rgb(180, 175, 175);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.table_style tr:nth-of-type(even){
+    background-color: grey;
+}
+.table_style thead{
+    background-color: navy;
+}
+.table_style th, .table_style td{
+    padding:15px 15px;
+    
+}
