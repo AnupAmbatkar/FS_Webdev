@@ -1,0 +1,78 @@
+body{
+    background-color: #eee;
+}
+
+.container{
+    background-color: teal;
+    display: flex;
+}
+.card{
+    height: 380px;
+    width: 280px;
+    border: 1px solid black;
+    border-radius: 4px 4px 0px 0px;
+    margin: 10px;
+    background-color: white;
+}
+.card img{
+    height: 180px;
+    width: 100%;
+}
+.title{
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+}
+.description{
+    text-align: center;
+    color: grey;
+}
+.rating{
+    float: left;
+    padding: 10px;
+}
+.rate_price{
+    width: 100%;
+}
+.rating img{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+.price{
+    float: right;
+    padding: 10px 10px 0px 10px ;
+    color: green;
+    font-size: 20px;
+}
+.original_price{
+    color: grey;
+    font-size: 12px;
+    float: right;
+    padding: 0px 50px 10px 10px ;
+    text-decoration: line-through;
+}
+.buttons{
+    float: left;
+    text-align: center;
+    width: 100%;
+
+}
+.buttons button{
+    width: 40%;
+    border-radius: 5px;
+    display: inline;
+    padding: 10px 0px;
+    margin: 10px 5px;
+    color: white;
+    font-size: 18px;
+}
+.cart{
+    background-color: gold;
+}
+.buy{
+    background-color: green;
+}
+.buttons button:hover{
+    cursor: pointer;
+}
