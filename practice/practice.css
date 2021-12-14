@@ -1,0 +1,9 @@
+body{
+    margin:auto;
+    display:block;
+}
+.table_style td{
+   background-color: grey;
+   opacity: 0.8;
+   width: 20%;
+}
