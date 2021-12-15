@@ -37,7 +37,7 @@ img{
 .photo-main{
     border-radius: 5px 5px 0 0;
     background-color: #87c42b;
-    background:radial-gradient(#f5f5f5 30%,#87c42b 70%) ;
+    background:radial-gradient(#c7ec8a 20%,#87c42b 80%) ;
 }
 
 
@@ -55,9 +55,7 @@ img{
     position: absolute;
     left: -4em;
     top: 2em;
-    filter: saturate(150%) hue-rotate(10deg) hue-rotate(10deg);
 }
-
 .photo-album{
     border-radius: 0 0 6px 6px;
     padding: 1em 1em;
