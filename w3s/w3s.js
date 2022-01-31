@@ -1,0 +1,1 @@
+document.getElementById(b1).onclick=alert(document.getElementById(b1).innerHTML="you clicked button")
