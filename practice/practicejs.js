@@ -102,9 +102,19 @@ b,a=a,b
 
 console.log(`a= ${a} b= ${b}`)
 
+var num=5
+var string='s1'
+console.log(num-string)
 
+const arr=[1,1,1,1,1,2,2,2,2,2,2]
+n=arr.length
+console.log(n[Math.floor(n/2)])
+// let str="aBCd"
+// console.log(str.toLowerCase)
+// console.log("r"==="R")
 
-
+let str="anupambatkar"
+console.log(str.split("").reverse().join(""))
 
 
 
