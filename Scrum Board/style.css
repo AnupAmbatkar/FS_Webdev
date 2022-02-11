@@ -1,0 +1,8 @@
+.wrapper{
+    background-color: teal;
+    width: 100vw;
+    display: grid;
+}
+.header{
+    background-color: black;
+}
