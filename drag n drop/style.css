@@ -1,0 +1,50 @@
+body {
+	background-color: rgb(36, 202, 202);
+  }
+  header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 60px;
+}
+
+  .list {
+	display: flex;
+	flex-direction: row;
+	flex: 1;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+.wraper{
+	width: 100vw;
+	display: flex;
+	flex: 1;
+	flex-flow: column;
+}
+  .container {
+	background-color: #333;
+	display: flex;
+	flex-direction: column;
+	padding: 1rem;
+	flex: 1;
+	justify-content: space-evenly;
+	margin-top: 1rem;
+	width: 100%;
+	border: 2px solid rgb(157, 255, 0);
+
+  }
+  
+  .draggable {
+	display: flex;
+	text-align: center;
+	padding: 5px;
+	background-color: white;
+	border: 1px solid black;
+	cursor: move;
+	width: 100%;
+  }
+  
+  .draggable.dragging {
+	opacity: .5;
+  }

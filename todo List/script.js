@@ -3,7 +3,7 @@ document.getElementById("addTodoBtn").addEventListener("click", addtodo);
 
 function addtodo(){
   var todo=document.getElementById("newTodoInput");
-  if(!todo){
+  if(!todo.value){
     window.alert("Empty Input")
     return
 }
