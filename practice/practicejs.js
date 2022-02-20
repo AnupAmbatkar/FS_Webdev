@@ -96,27 +96,50 @@
 // let a=[4,3,2,6]
 // console.log(mincost(a))
 
-let a=5
-let b=8
-b,a=a,b 
+// let a=5
+// let b=8
+// b,a=a,b 
 
-console.log(`a= ${a} b= ${b}`)
+// console.log(`a= ${a} b= ${b}`)
 
-var num=5
-var string='s1'
-console.log(num-string)
+// var num=5
+// var string='s1'
+// console.log(num-string)
 
-const arr=[1,1,1,1,1,2,2,2,2,2,2]
-n=arr.length
-console.log(n[Math.floor(n/2)])
+// const arr=[1,1,1,1,1,2,2,2,2,2,2]
+// n=arr.length
+// console.log(n[Math.floor(n/2)])
 // let str="aBCd"
 // console.log(str.toLowerCase)
 // console.log("r"==="R")
 
-let str="anupambatkar"
-console.log(str.split("").reverse().join(""))
+// let str="anupambatkar"
+// console.log(str.split("").reverse().join(""))
 
+function startTimer(duration, display) {
+    var timer = duration, minutes, seconds;
+    console.log(timer)
+    setInterval(function () {
+        minutes = parseInt(timer / 60, 10);
+        console.log(minutes)
+        seconds = parseInt(timer % 60, 10);
 
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.textContent = minutes + ":" + seconds;
+
+        if (--timer < 0) {
+            timer = duration;
+        }
+    }, 1000);
+}
+
+window.onload = function () {
+    var fiveMinutes = 60 * 5,
+        display = document.querySelector('#time');
+    startTimer(fiveMinutes, display);
+};
 
 
 

@@ -1,0 +1,132 @@
+body{
+ 
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.wrapper{
+    background-color:aqua;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+.time{
+    display: flex;
+    float: left;
+    width: 20%;
+    border: red;
+    justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column; 
+}
+.min{
+    border: 2px solid white;
+    font-size: 20px;
+    width: 70%;
+    height: 10%;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+    background: none;
+  }
+  button:focus{
+      background-color: rgb(0, 255, 115);
+  }
+  button:hover{
+      background-color: grey;
+  }
+
+
+.main{
+    display: flex;
+    float: left;
+    width: 50%;
+    border: red;
+    justify-content: space-evenly;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column; 
+}
+
+.controls{
+    border: 10px solid white;
+    border-radius: 50%;
+    background: none;
+    width: 70%;
+    height: 70%;
+    align-items: center;
+    display: flex;
+    position: relative;
+
+}
+
+.playpause{
+    background: url("play.svg") no-repeat;
+    background-size: cover;
+    border-radius: 30%;
+    width: 80px;
+    height: 80px;
+    border: none;
+    display: flex;
+    position: absolute;
+    left: 45%;
+    top: 10%;
+}
+.restart{
+    background: url("restart.svg") no-repeat;
+    background-size: cover;
+    width: 80px;
+    border-radius: 50%;
+    height: 80px;
+    border: none;
+    display: flex;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+}
+.timmer{
+    color: white;
+    position: absolute;
+    font-size: 50px;
+    bottom: 5%;
+}
+
+
+.backgroundcontrols{
+    display: flex;
+    float: left;
+    width: 20%;
+
+    border: green;
+    justify-content: space-evenly;
+    flex-direction: column;
+  align-items: center;
+}
+
+.rain{
+    background: url(rain.svg) no-repeat;
+    border: none;
+    border-radius: 40%;
+    background-color: aqua;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    display: flex;
+}
+
+.sun{
+    background: url(sun.svg);
+    display: flex;
+    border: none;
+    background-color: gold;
+    border-radius: 40%;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
