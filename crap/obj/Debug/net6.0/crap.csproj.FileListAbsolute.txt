@@ -1,0 +1,15 @@
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\bin\Debug\net6.0\crap.exe
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\bin\Debug\net6.0\crap.deps.json
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\bin\Debug\net6.0\crap.runtimeconfig.json
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\bin\Debug\net6.0\crap.dll
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\bin\Debug\net6.0\crap.pdb
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\crap.csproj.AssemblyReference.cache
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\crap.GeneratedMSBuildEditorConfig.editorconfig
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\crap.AssemblyInfoInputs.cache
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\crap.AssemblyInfo.cs
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\crap.csproj.CoreCompileInputs.cache
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\crap.dll
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\refint\crap.dll
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\crap.pdb
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\crap.genruntimeconfig.cache
+E:\FAV\series\acciojobs\front end\FS_Webdev\crap\obj\Debug\net6.0\ref\crap.dll

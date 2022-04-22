@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FAV\\series\\acciojobs\\front end\\FS_Webdev\\crap\\crap.csproj": {}
+  },
+  "projects": {
+    "E:\\FAV\\series\\acciojobs\\front end\\FS_Webdev\\crap\\crap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FAV\\series\\acciojobs\\front end\\FS_Webdev\\crap\\crap.csproj",
+        "projectName": "crap",
+        "projectPath": "E:\\FAV\\series\\acciojobs\\front end\\FS_Webdev\\crap\\crap.csproj",
+        "packagesPath": "C:\\Users\\anupp\\.nuget\\packages\\",
+        "outputPath": "E:\\FAV\\series\\acciojobs\\front end\\FS_Webdev\\crap\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anupp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
