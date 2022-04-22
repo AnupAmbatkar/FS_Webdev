@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnupAmbatkar/FullStack_Webdev/tree/main/allreact/reactproj/static/css/main.b3a18f3d.css",
+    "main.js": "/AnupAmbatkar/FullStack_Webdev/tree/main/allreact/reactproj/static/js/main.60284b92.js",
+    "index.html": "/AnupAmbatkar/FullStack_Webdev/tree/main/allreact/reactproj/index.html",
+    "main.b3a18f3d.css.map": "/AnupAmbatkar/FullStack_Webdev/tree/main/allreact/reactproj/static/css/main.b3a18f3d.css.map",
+    "main.60284b92.js.map": "/AnupAmbatkar/FullStack_Webdev/tree/main/allreact/reactproj/static/js/main.60284b92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a18f3d.css",
+    "static/js/main.60284b92.js"
+  ]
+}
